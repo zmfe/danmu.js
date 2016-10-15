@@ -158,6 +158,3 @@ $(document).ready(function () {
             });
         })();
     };
-
-    var DialectCurtain = new Curtain();
-    DialectCurtain.play();
