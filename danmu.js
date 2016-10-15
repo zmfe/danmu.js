@@ -55,7 +55,6 @@ $(document).ready(function () {
             { text: "弄巴实", size: 1.5, color:"rgb(82,84,91)", start_time: 8000, duration: 6000 },
             { text: "巴适", size: 1.5, color:"rgb(82,84,91)", start_time: 9500, duration: 6000 }
         ];
-    break;
     /**
      * 
      * 获取css描述的属性
