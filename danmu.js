@@ -1,4 +1,4 @@
-$(document).ready(function () {
+
     // 浏览器兼容requestAnimationFrame的方法,支持到IE6
     (function () {
         var lastTime = 0;
@@ -157,4 +157,4 @@ $(document).ready(function () {
                 go();  
             });
         })();
-    };
+
